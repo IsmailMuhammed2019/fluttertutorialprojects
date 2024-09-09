@@ -1,5 +1,3 @@
-Here's the content formatted for a `README.md` file, focusing on teaching Flutter and creating simple apps:
-
 ```markdown
 # Flutter Learning Guide 📱
 
